@@ -1,5 +1,5 @@
 # Welcome to My Chaos
-![Terminal](https://i.imgur.com/8T3Wb5R.gif)
+
 
 Yo, what's up? 👾 I’m Ayman (aka Stinger when I’m in my element). This is my digital lair where I let my passions for tech, gaming, and design run wild. Grab your coffee and let’s dive into the madness.
 
