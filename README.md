@@ -1,5 +1,4 @@
 # Welcome to My Chaos
-
 ![Matrix](https://i.imgur.com/xTlE8UM.gif)
 
 Yo, what's up? 👾 I’m Ayman (aka Stinger when I’m in my element). This is my digital lair where I let my passions for tech, gaming, and design run wild. Grab your coffee and let’s dive into the madness.
