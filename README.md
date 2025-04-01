@@ -27,6 +27,8 @@ Thanks for stopping by. Don’t be a stranger. 😎
 
 ## Tools I’m Familiar With
 
-| Blender | Steam | Google |
-|---------|-------|--------|
-| ![Blender Logo](https://upload.wikimedia.org/wikipedia/commons/9/9b/Blender_logo_2019.svg) | ![Steam Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Steam_logo.png) | ![Google Logo](https://upload.wikimedia.org/wikipedia/commons/4/42/Google_2015_logo.svg) |
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Blender_logo_2019.svg" alt="Blender" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Google_2021.svg" alt="Google" width="80" height="80">
+</p>
