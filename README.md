@@ -27,10 +27,6 @@ Thanks for stopping by. Don’t be a stranger. 😎
 
 ## Tools I’m Familiar With
 
-<div style="display: flex; justify-content: space-around; border: 1px solid #ccc; padding: 20px; background-color: #f7f7f7;">
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Blender_logo_2019.svg" alt="Blender Logo" width="100" height="100" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Steam_logo.png" alt="Steam Logo" width="100" height="100" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Google_2015_logo.svg" alt="Google Logo" width="100" height="100" />
-
-</div>
+| Blender | Steam | Google |
+|---------|-------|--------|
+| ![Blender Logo](https://upload.wikimedia.org/wikipedia/commons/9/9b/Blender_logo_2019.svg) | ![Steam Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Steam_logo.png) | ![Google Logo](https://upload.wikimedia.org/wikipedia/commons/4/42/Google_2015_logo.svg) |
