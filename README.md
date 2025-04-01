@@ -28,7 +28,7 @@ Thanks for stopping by. Don’t be a stranger. 😎
 ## Tools I’m Familiar With
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Blender_Logo_Community.svg/200px-Blender_Logo_Community.svg.png" alt="Blender" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Blender_logo_no_text.svg" alt="Blender" width="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/200px-Google_2015_logo.svg.png" alt="Google" width="80">
 </p>
