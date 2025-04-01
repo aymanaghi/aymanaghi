@@ -1,6 +1,6 @@
 # Welcome to My Chaos
 
-Yo, what's up? 👾 I’m [Your Name] (aka Stinger when I’m in my element). This is my digital lair where I let my passions for tech, gaming, and design run wild. Grab your coffee and let’s dive into the madness.
+Yo, what's up? 👾 I’m Ayman (aka Stinger when I’m in my element). This is my digital lair where I let my passions for tech, gaming, and design run wild. Grab your coffee and let’s dive into the madness.
 
 ## About Me
 
@@ -10,7 +10,7 @@ Yo, what's up? 👾 I’m [Your Name] (aka Stinger when I’m in my element). Th
 - 📧 Reach out if you wanna chat about coding, games, or how to escape the gaming rabbit hole (spoiler: there’s no escape).
 
 ## Linux (Because I’m Not Like Other People)
-![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg =200x200)
+! [Linux Logo] (https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg =200x200)
 
 The only OS that gets me. I jump between distros like it’s a game of musical chairs — currently vibing with Fedora, but Kali's always lurking in the background.
 
