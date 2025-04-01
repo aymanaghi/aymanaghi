@@ -1,11 +1,11 @@
 # Welcome to My Chaos
 
-Yo, what's up? 👾 I’m Ayman (aka Stinger when I’m in my element). This is my digital lair where I let my passions for tech, gaming, and design run wild. Grab your coffee and let’s dive into the madness.
+Yo, what's up? 👾 I’m [Your Name] (aka Stinger when I’m in my element). This is my digital lair where I let my passions for tech, gaming, and design run wild. Grab your coffee (or energy drink) and let’s dive into the madness.
 
 ## About Me
 
 - 💻 I'm that person who’s constantly bouncing between Linux distros (Fedora, Kali, Mint, you name it) while crushing gaming sessions on Steam. Yeah, I might have an addiction.
-- 🎮 I’ve spent way too many hours in Dota 2.
+- 🎮 I’ve spent way too many hours in games like Dota 2, CS:GO, and Valorant — don’t @ me.
 - 🌱 I’m always learning. Currently into web dev, 3D modeling (Blender is life), and the occasional deep dive into Python.
 - 📧 Reach out if you wanna chat about coding, games, or how to escape the gaming rabbit hole (spoiler: there’s no escape).
 
@@ -17,12 +17,12 @@ Yo, what's up? 👾 I’m Ayman (aka Stinger when I’m in my element). This is 
 The only OS that gets me. I jump between distros like it’s a game of musical chairs — currently vibing with Fedora, but Kali's always lurking in the background.
 
 ### Steam (You’ll Find Me Online)
-![Steam Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Steam_logo.svg/1280px-Steam_logo.svg.png)
+![Steam Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Steam_logo.png)
 
 This is where my addiction lives. 🎮 I’ve probably racked up more hours on Steam than I should admit. Dota 2, CS2, you know the drill. If I'm not coding, I’m gaming.
 
 ### Blender (For When I Need to Create)
-![Blender Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png)
+![Blender Logo](https://upload.wikimedia.org/wikipedia/commons/9/9b/Blender_logo_2019.svg)
 
 Blender is my go-to for 3D modeling and animations. Yeah, I spend hours tweaking meshes and textures instead of getting actual work done. But hey, it’s art, right?
 
