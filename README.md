@@ -28,6 +28,5 @@ Thanks for stopping by. Don’t be a stranger. 😎
 ## I'm Familiar With
 
 | Google Colab | Blender | Steam | Fedora | Dota 2 | ThinkPad | Google |
-|-------------|---------|-------|--------|--------|----------|--------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colab_Logo.svg" width="50"> | <img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/en/3/3c/Dota_2_logo.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/ThinkPad_logo.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="50"> |
-
+|--------------|---------|-------|--------|--------|----------|--------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colab_Logo.svg" width="50"> | <img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Dota_2_logo.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/ThinkPad_Logo_2015.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="50"> |
