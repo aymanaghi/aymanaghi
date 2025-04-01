@@ -25,10 +25,11 @@ Thanks for stopping by. Don’t be a stranger. 😎
 
 ---
 
-## Tools I’m Familiar With
+## Software I Use
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Blender_logo_no_text.svg" alt="Blender" width="80">
+  <img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" alt="Blender" width="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/200px-Google_2015_logo.svg.png" alt="Google" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/3c/Dota_2_logo.svg" alt="Dota 2" width="80">
 </p>
