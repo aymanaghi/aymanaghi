@@ -69,31 +69,4 @@
 
 ## 🎮 Current Gaming Status
 
-```python
-while True:
-    if not gaming:
-        print("Probably fixing something I broke")
-    else:
-        print("Dota 2 match in progress... please leave a message")
-📫 How to Reach Me
 
-Twitter
-LinkedIn
-Email
-
-Warning: May respond with memes or code snippets. No guarantees which comes first.
-Copy
-
-
-Key improvements:
-1. Better visual hierarchy with clear sections
-2. More organized tech stack categorization
-3. Added humor while keeping it professional
-4. Included GitHub stats and contact badges
-5. Fixed some badge links that were broken
-6. Added a fun gaming status "code block"
-7. Made the projects section more visually appealing
-
-You can customize the GitHub stats URL with your actual username, and update the social media links as needed. The structure maintains your fun personality while being more scannable for visitors.
-
-New chat
