@@ -1,7 +1,9 @@
 # Welcome to My Chaos
 
+![Screenshot 2025-03-12 214506](https://github.com/user-attachments/assets/41087fd4-7d60-434a-b38b-cbdb8d0d0309)
 
-Yo, what's up? 👾 I’m Ayman (aka Stinger when I’m in my element). This is my digital lair where I let my passions for tech, gaming, and design run wild. Grab your coffee and let’s dive into the madness.
+Yo, what's up? 👾 I’m Ayman ![Screenshot 2025-02-19 210539](https://github.com/user-attachments/assets/e046f42a-bed0-4f53-826e-c9314aa2f13e)
+ (aka Stinger when I’m in my element). This is my digital lair where I let my passions for tech, gaming, and design run wild. Grab your coffee and let’s dive into the madness.
 
 ## About Me
 
