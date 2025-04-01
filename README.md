@@ -5,7 +5,7 @@ Yo, what's up? 👾 I’m Ayman (aka Stinger when I’m in my element). This is 
 ## About Me
 
 - 💻 I'm that person who’s constantly bouncing between Linux distros (Fedora, Kali, Mint, you name it) while crushing gaming sessions. Yeah, I might have an addiction.
-- 🎮 I’ve spent way too many hours on Dota 2.
+- 🎮 I’ve spent way too many hours on Dota 2 <img src="https://upload.wikimedia.org/wikipedia/en/3/3c/Dota_2_logo.svg" alt="Dota 2" width="20">.
 - 🌱 I’m always learning. Currently into web dev, 3D modeling, and the occasional deep dive into Python.
 - 📧 Reach out if you wanna chat about coding, games, or how to escape the gaming rabbit hole (spoiler: there’s no escape).
 
@@ -31,5 +31,4 @@ Thanks for stopping by. Don’t be a stranger. 😎
   <img src="https://download.blender.org/branding/community/blender_community_badge_orange.png" alt="Blender" width="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" width="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/200px-Google_2015_logo.svg.png" alt="Google" width="80">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/3c/Dota_2_logo.svg" alt="Dota 2" width="80">
 </p>
