@@ -1,6 +1,8 @@
 # Welcome to My Digital Chaos 🌀
 
-![Screenshot 2025-03-12 214506](https://github.com/user-attachments/assets/41087fd4-7d60-434a-b38b-cbdb8d0d0309)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41087fd4-7d60-434a-b38b-cbdb8d0d0309" style="width: 90%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</p>
 
 **Yo, what's up?** 👾 I'm Ayman (aka Stinger when I'm in the zone). This is where my tech obsessions, gaming addictions, and creative madness collide. Grab some caffeine and enjoy the ride.
 
@@ -54,10 +56,10 @@
 [![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 
-### 🕹️ Gaming Setup
+### 🕹️ Gaming & Development
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
 [![Dota 2](https://img.shields.io/badge/Dota_2-%23F79A1F.svg?style=for-the-badge&logo=dota2&logoColor=white)](https://www.dota2.com/)
-[![OBS](https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)](https://obsproject.com/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) *(for game mods/dev)*
 
 ---
 
@@ -65,6 +67,14 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
+---
 
+## 📫 How to Reach Me
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+**Warning:** May respond with memes or code snippets. No guarantees which comes first.
