@@ -56,11 +56,10 @@
 [![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 
-### 🕹️ Gaming & Development
+### 🕹️ Gaming Setup
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
 [![Dota 2](https://img.shields.io/badge/Dota_2-%23F79A1F.svg?style=for-the-badge&logo=dota2&logoColor=white)](https://www.dota2.com/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) *(for game mods/dev)*
-
+[![Rust](https://img.shields.io/badge/Rust_(Game)-E03C31?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRTAzQzMxIiBkPSJNMjU2IDhDMTE5IDggOCAxMTkgOCAyNTZzMTExIDI0OCAyNDggMjQ4IDI0OC0xMTEgMjQ4LTI0OFMzOTMgOCAyNTYgOHptMCA0NDhjLTExMC41IDAtMjAwLTg5LjUtMjAwLTIwMFMxNDUuNSA1NiAyNTYgNTZzMjAwIDg5LjUgMjAwIDIwMC04OS41IDIwMC0yMDAgMjAwem02MS44LTI1Ni4ybC04NC45IDYxLjhjLTEwLjggNy43LTI2IDQuMi0zMy43LTYuNnMtNC4yLTI2IDYuNi0zMy43bDg0LjktNjEuOGMxMC44LTcuNyAyNi00LjIgMzMuNyA2LjYgNy44IDEwLjcgNC4zIDI1LjktNi42IDMzLjd6Ii8+PC9zdmc+)](https://rust.facepunch.com/)
 ---
 
 ## 📈 GitHub Stats (When I Remember to Commit)
