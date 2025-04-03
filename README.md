@@ -53,11 +53,9 @@
 
 ## 📈 GitHub Stats (When I Remember to Commit)
 
-Replace `aymanaghi` with your GitHub username in these links:
 
-```markdown
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?aymanaghi=yourusername&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aymanaghi&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaghi&layout=compact&theme=radical)
