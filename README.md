@@ -1,9 +1,5 @@
 # Welcome to My Digital Chaos 🌀
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/41087fd4-7d60-434a-b38b-cbdb8d0d0309" style="width: 90%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-</p>
-
 **Yo, what's up?** 👾 I'm Ayman (aka Stinger when I'm in the zone). This is where my tech obsessions, gaming addictions, and creative madness collide. Grab some caffeine and enjoy the ride.
 
 ---
