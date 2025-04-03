@@ -1,20 +1,20 @@
-# Welcome to My Digital Chaos 🌀
+# Welcome to My Digital Chaos 🌀 [![Pepe](https://i.imgur.com/VHO5IqG.png)](https://example.com)
 
-**Yo, what's up?** 👾 I'm Ayman (aka Stinger when I'm in the zone). This is where my tech obsessions, gaming addictions, and creative madness collide. Grab some caffeine and enjoy the ride.
+**Yo, what's up?** 👾🐸 I'm Ayman (aka Stinger when I'm in the zone). This is where my tech obsessions, gaming addictions, and creative madness collide. Grab some caffeine and enjoy the ride.
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 💻 **OS Hopper**: Constantly distro-hopping between Fedora, Kali, Mint, and whatever catches my eye
-- 🎮 **Gaming Fiend**: Dota 2 addict with questionable win rates
-- 🌱 **Forever Learning**: Currently juggling web dev, 3D modeling, and Python wizardry
-- ☕ **Coffee-powered**: My IDE runs on caffeine
+- 🎮 **Gaming Fiend**: Dota 2 addict with questionable win rates 
+- 🌱 **Forever Learning**: Currently juggling [CS50](https://cs50.harvard.edu/), web dev, 3D modeling, and Python wizardry
+- ☕ **Coffee-powered**: My IDE runs on caffeine (and occasional tears)
 
 **Want to chat about:**  
 → Linux quirks  
 → Gaming fails  
-→ Why Python list comprehensions are magic  
+→ Why Python list comprehensions are actual magic  
 → How to pretend you're productive while actually gaming  
 
 ---
@@ -33,34 +33,32 @@
 
 ### 🔧 Core Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![CS50](https://img.shields.io/badge/CS50-edX%20Harvard-blue?style=for-the-badge&logo=edx&logoColor=white)](https://cs50.harvard.edu/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### ☁️ Cloud & DevOps
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
 
-### 🎨 Creative Tools
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)](https://www.audacityteam.org/)
-
-### 🐧 Linux & Security
-[![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-
-### 🕹️ Gaming Setup
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
+### 🎮 Gaming & Fun
 [![Dota 2](https://img.shields.io/badge/Dota_2-%23F79A1F.svg?style=for-the-badge&logo=dota2&logoColor=white)](https://www.dota2.com/)
-[![Rust](https://img.shields.io/badge/Rust_(Game)-E03C31?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjRTAzQzMxIiBkPSJNMjU2IDhDMTE5IDggOCAxMTkgOCAyNTZzMTExIDI0OCAyNDggMjQ4IDI0OC0xMTEgMjQ4LTI0OFMzOTMgOCAyNTYgOHptMCA0NDhjLTExMC41IDAtMjAwLTg5LjUtMjAwLTIwMFMxNDUuNSA1NiAyNTYgNTZzMjAwIDg5LjUgMjAwIDIwMC04OS41IDIwMC0yMDAgMjAwem02MS44LTI1Ni4ybC04NC45IDYxLjhjLTEwLjggNy43LTI2IDQuMi0zMy43LTYuNnMtNC4yLTI2IDYuNi0zMy43bDg0LjktNjEuOGMxMC44LTcuNyAyNi00LjIgMzMuNyA2LjYgNy44IDEwLjcgNC4zIDI1LjktNi42IDMzLjd6Ii8+PC9zdmc+)](https://rust.facepunch.com/)
+[![CS:GO](https://img.shields.io/badge/CSGO-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://www.counter-strike.net/)
+[![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=valorant&logoColor=white)](https://playvalorant.com/)
+
+### 🐧 Linux Flavors
+[![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+
 ---
 
 ## 📈 GitHub Stats (When I Remember to Commit)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
@@ -72,4 +70,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
-**Warning:** May respond with memes or code snippets. No guarantees which comes first.
+**Warning:** May respond with memes, code snippets, or rare Pepe lore. No guarantees which comes first.
+
+---
+
+![Pepe Dance](https://media.tenor.com/5rAnnsJ3Lq8AAAAd/pepe-dance-pepe.gif)
