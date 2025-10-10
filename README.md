@@ -1,61 +1,27 @@
-# Welcome to My Digital Chaos 🌀 
+# 💫 About Me:
+itle / Header<br>“Stinger a.k.a Ayman — Code by day, gamer by night”<br>“Chaos in code, order in games”<br><br>About me / Bio ideas<br><br>I’m a Linux distro-hopper / OS explorer — currently vibing with Fedora / Arch / whatever strikes 🤘<br><br>Dota 2 addict / gaming stories (maybe include funny stats)<br><br>Learning: web dev, Python, 3D modeling, etc.<br><br>I break things just to build them better<br><br>What I do / Projects<br><br>Personal website (link + status)<br><br>Gaming Time Tracker (fun idea!)<br><br>Blender / 3D experiments<br><br>Show small pet projects even if they’re messy (people dig real work)<br><br>Tech stack / tools<br>Make a section “🛠 My Gear” or “Tech I mess with”:<br><br>Python, JS, Linux, Docker, Blender, etc.<br><br>Link to any tools / libs you made or contribute to<br><br>Social / connect<br><br>Add Twitter, LinkedIn, Discord, etc.<br><br>“Hit me up if …” (open to collab, game, learn together)<br><br>Fun / personality touch<br><br>Meme / quote line<br><br>A “fun fact” (like “I code better under caffeine”)<br><br>Visitor counter / GitHub stats panel
 
-**Yo, what's up?** 👾🐸 I'm Ayman (aka Stinger when I'm in the zone). This is where my tech obsessions, gaming addictions, and creative madness collide. Grab some caffeine and enjoy the ride.
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/stinger961) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayman-naghi-stinger961) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/naghiayman) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/stinger2016xx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AymaNaghi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Stinger805) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naghiayman@gmail.com) 
 
-## 🧑‍💻 About Me
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aymanaghi&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aymanaghi&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaghi&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 💻 **OS Hopper**: Constantly distro-hopping between Fedora, Kali, Mint, and whatever catches my eye
-- 🎮 **Gaming Fiend**: Dota 2 addict with questionable win rates 
-- 🌱 **Forever Learning**: Currently juggling [CS50](https://cs50.harvard.edu/), web dev, 3D modeling, and Python wizardry
-- ☕ **Coffee-powered**: My IDE runs on caffeine (and occasional tears)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aymanaghi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**Want to chat about:**  
-→ Linux quirks  
-→ Gaming fails  
-→ Why Python list comprehensions are actual magic  
-→ How to pretend you're productive while actually gaming  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🚀 Current Projects
-
-| Project | Status | Crazy Factor |
-|---------|--------|--------------|
-| **Personal Website** | "It's not a bug, it's a feature" phase | 🚧 7/10 |
-| **Gaming Time Tracker** | (For research purposes... definitely not an intervention tool) | 😅 9/10 |
-| **Blender Abominations** | Making 3D models that would confuse Picasso | 🎨 11/10 |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aymanaghi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=aymanaghi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech & Tools Arsenal
-
-### 🔧 Core Stack
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![CS50](https://img.shields.io/badge/CS50-Harvard_edX-02569B?style=for-the-badge&logo=edx&logoColor=white)](https://cs50.harvard.edu/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
-### 🎨 Creative Tools
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
-### ☁️ Cloud & DevOps
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-
-### 🎮 Gaming & Fun
-[![Dota 2](https://img.shields.io/badge/Dota_2-%23F79A1F.svg?style=for-the-badge&logo=dota2&logoColor=white)](https://www.dota2.com/)
-[![CS:GO](https://img.shields.io/badge/CSGO-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://www.counter-strike.net/)
-
----
-
-## 📈 GitHub Stats (When I Remember to Commit)
-
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?aymanaghi=yourusername&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=aymanaghi&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanaghi&layout=compact&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
