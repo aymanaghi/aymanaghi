@@ -55,7 +55,7 @@
 
 ---
 
-## 🌈 Stats
+##  Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aymanaghi&show_icons=true&theme=radical&bg_color=000000&title_color=f4b400&icon_color=f4b400&text_color=ffffff" height="150" />
   <img src="https://streak-stats.demolab.com?user=aymanaghi&theme=radical&background=000000&ring=f4b400&fire=f4b400" height="150" />
