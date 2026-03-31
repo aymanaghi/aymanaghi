@@ -1,61 +1,79 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:f4b400,100:111111&text=STINGER%20%E2%80%94%20AYMAN%20NAGHI&fontSize=42&fontColor=000000&animation=twinkling" alt="Stinger banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:f4b400,100:111111&text=AYMAN%20NAGHI&fontSize=48&fontColor=000000&animation=twinkling" alt="Banner" />
 </p>
 
-<h1 align="center">⚡ STINGER — Web3 Dev • Automation Engineer • Indie Game Dev ⚡</h1>
+<h2 align="center">🤖 Automation Engineer • AI Workflow Architect • Python & Linux</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/aymanaghi?style=for-the-badge&color=gold" />
-  <img src="https://img.shields.io/github/stars/aymanaghi?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/badge/Automation-N8N%20%7C%20Zapier%20%7C%20AI%20Agents-f4b400?style=for-the-badge&logo=robotframework&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI-Claude%20API%20%7C%20LLMs-f4b400?style=for-the-badge&logo=anthropic&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-Fedora-2f6ceb?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4%2B%20Years-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/IQ9Zk9jLV6gAAAAj/bee-buzz.gif" width="70" alt="Bee animation" />
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=032" width="70" alt="Solana logo" />
-</p>
-
-<p align="center">
-  <b>💬 “Let’s sting your problem together.” 🐝</b>
+  <img src="https://github.com/followers/aymanaghi?label=Followers&style=social" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/aymanaghi?style=social" />
 </p>
 
 ---
 
-## 🪙 Live Solana Balance
-<p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://solana-balance.vercel.app/api/sol&style=for-the-badge&logo=solana&logoColor=white" alt="Solana Live Balance" />
-</p>
+## ⚡ What I Do
+
+I build **automation systems that run themselves** — from data scraping and enrichment to AI-powered outreach and workflow orchestration. My stack centers around **N8N**, **Claude API**, **Python**, and **Linux**, and I integrate everything: CRMs, spreadsheets, webhooks, and APIs.
+
+> *"Don't do manually what a machine can do better."* 🐝
 
 ---
 
-## 🚀 About Me
-- Building **automation systems**, **Web3 tools**, and **indie games**.
-- Obsessed with **Python**, **Next.js**, **n8n**, and **Solana**.
-- Running everything from my Fedora Linux hive 🐧.
-- Mission: Automate. Build. Buzz. Glow.
+## 🛠️ Automation Stack
+
+| Layer | Tools |
+|---|---|
+| **Workflow Automation** | N8N, Zapier, Webhooks |
+| **AI & LLMs** | Claude API, Prompt Engineering, AI Agents |
+| **Scraping & Data** | Python, BeautifulSoup, Selenium, Google Places API |
+| **Integration** | Google Sheets, HubSpot CRM, REST APIs, SMTP |
+| **Dev** | Python, Bash, TypeScript, Node.js |
+| **Infrastructure** | Fedora Linux, Git, Docker, Cron |
 
 ---
 
-## 🧰 Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,nextjs,react,tailwind,docker,git,github,linux,bash,blender,godot,unreal,vscode&perline=8" />
-</p>
+## 🔥 Featured Automation Projects
+
+### 🗂️ Dubai Leads System
+> Full end-to-end pipeline: **scrape → clean → enrich → outreach**
+- Google Maps / Places scraping at scale with Python
+- Data normalization and deduplication
+- Claude API for lead enrichment and personalized email copy
+- N8N orchestration with HubSpot CRM + Google Sheets integration
+- Zero manual steps — fully automated and scheduled
+
+### 🗺️ [maps-scraper](https://github.com/aymanaghi/maps-scraper)
+> Google Places data harvester — extracts business name, phone, address, category
+- Python + Jupyter Notebook
+- Outputs clean structured datasets ready for automation pipelines
+
+### 🤖 AI Email Outreach Workflow
+> N8N + Claude API workflow that reads leads, writes personalized emails, and sends automatically
+- Claude API for copywriting and lead classification
+- SMTP delivery with dynamic templates
+- Full audit trail in Google Sheets
+
+### 📱 [scrcpy-obs-bot](https://github.com/aymanaghi/scrcpy-obs-bot)
+> Automated Android screen recording pipeline
+- Python automation triggering OBS recording via scrcpy
+
+### 🔧 More Tools
+- 📔 **[honeylog](https://github.com/aymanaghi/honeylog)** — CLI journaling tool with structured logging
+- 🔐 **[stinger-pwgen](https://github.com/aymanaghi/stinger-pwgen)** — entropy-safe password generator
+- 🎮 **[cs2-market-tools](https://github.com/aymanaghi/cs2-market-tools)** — CS2 market data aggregator
 
 ---
 
-## 🏗️ Featured Projects
-🔥 **Dubai Leads System** — scrape ➜ clean ➜ outreach  
-🗺️ **maps-scraper** — Google Places data harvester  
-📰 **crypto-news-cli** — terminal crypto headlines  
-🎮 **cs2-market-tools** — CS2 market helper  
-📔 **honeylog** — CLI journaling tool  
-🔐 **stinger-pwgen** — password generator  
-📡 **solana-tv-cli** — real-time Solana TV  
-📱 **scrcpy-obs-bot** — auto-record Android with OBS  
+## 📊 GitHub Stats
 
----
-
-##  Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aymanaghi&show_icons=true&theme=radical&bg_color=000000&title_color=f4b400&icon_color=f4b400&text_color=ffffff" height="150" />
   <img src="https://streak-stats.demolab.com?user=aymanaghi&theme=radical&background=000000&ring=f4b400&fire=f4b400" height="150" />
@@ -71,10 +89,19 @@
 
 ---
 
+## 📬 Let's Connect
+
 <p align="center">
-  <b>🌐 <a href="https://aymannaghi.com">aymannaghi.com</a> | 🐦 <a href="https://x.com/aymanaghi">Twitter</a> | 🐙 <a href="https://github.com/aymanaghi">GitHub</a></b>
+  <a href="https://aymannaghi.com"><img src="https://img.shields.io/badge/Website-aymannaghi.com-f4b400?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://x.com/aymanaghi"><img src="https://img.shields.io/badge/Twitter-@aymanaghi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ayman-naghi-832b33231"><img src="https://img.shields.io/badge/LinkedIn-Ayman%20Naghi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/aymanaghi"><img src="https://img.shields.io/badge/GitHub-aymanaghi-333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  🪩 Built with ❤️ by Stinger — The Bee That Codes 🐝
+  <b>Open to automation contracts, AI workflow projects, and remote roles 🚀</b>
+</p>
+
+<p align="center">
+  Built with ❤️ by Stinger — The Bee That Codes 🐝
 </p>
