@@ -98,6 +98,7 @@ If my open source tools saved you time or helped your project, consider sending 
 </p>
 
 <p align="center">
+  ![binance-pay-qr](https://github.com/user-attachments/assets/930a8752-4815-45e7-8924-8f9f8142c1b3)
   <img src="./binance-pay-qr.jpg" width="180" alt="Binance Pay QR — STINGER961" />
 </p>
 
@@ -116,6 +117,7 @@ If my open source tools saved you time or helped your project, consider sending 
   <a href="https://linkedin.com/in/ayman-naghi-832b33231"><img src="https://img.shields.io/badge/LinkedIn-Ayman%20Naghi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/aymanaghi"><img src="https://img.shields.io/badge/GitHub-aymanaghi-333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
 
 <p align="center">
   <b>Open to automation contracts, AI workflow projects, and remote roles 🚀</b>
