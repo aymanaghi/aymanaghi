@@ -89,6 +89,25 @@ I build **automation systems that run themselves** — from data scraping and en
 
 ---
 
+## 💛 Support My Work
+
+If my open source tools saved you time or helped your project, consider sending a tip in USDT — it goes directly toward building more free automation tools.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/USDT-Binance%20Pay-f4b400?style=for-the-badge&logo=binance&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="./binance-pay-qr.jpg" width="180" alt="Binance Pay QR — STINGER961" />
+</p>
+
+<p align="center">
+  <b>Binance Pay ID: <code>STINGER961</code></b><br/>
+  <sub>Scan with the Binance app · USDT accepted · Instant settlement ⚡</sub>
+</p>
+
+---
+
 ## 📬 Let's Connect
 
 <p align="center">
