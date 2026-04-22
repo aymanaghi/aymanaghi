@@ -126,3 +126,48 @@ If my open source tools saved you time or helped your project, consider sending 
 <p align="center">
   Built with ❤️ by Stinger — The Bee That Codes 🐝
 </p>
+
+
+
+
+
+---
+
+<div align="center">
+
+## 💰 Support My Work
+
+<table>
+<tr>
+<td align="center" width="200">
+
+**₿ Bitcoin**
+`BTC`
+
+`15TnWYZySMC8KHuoAWQQsMAKJWts8g8fua`
+
+</td>
+<td align="center" width="200">
+
+**Ξ Ethereum**
+`ERC20`
+
+`0xdbAB2a1c7FaAC113384741BB7769BE1E023C2109`
+
+</td>
+<td align="center" width="200">
+
+**₮ USDT**
+`TRC20`
+
+`TLf9qkWBBxH1NPVQFg2ZzcxZrsbCy7p31T`
+
+</td>
+</tr>
+</table>
+
+> 💸 Also accepting payments via **Binance Pay** · ID: `STINGER961`
+
+</div>
+
+---
