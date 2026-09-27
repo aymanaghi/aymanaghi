@@ -37,7 +37,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=495&hide_border=true&border_radius=10&bg_color=161B22&title_color=F4B400&text_color=E6EDF3&custom_title=Most used languages
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=cs2-market-tools,dota2-profile&card_width=495&hide_border=true&border_radius=10&bg_color=161B22&title_color=F4B400&text_color=E6EDF3&custom_title=Most used languages
           path: dist/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
@@ -46,7 +46,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=495&hide_border=true&border_radius=10&bg_color=F6F8FA&title_color=9A6700&text_color=1F2328&custom_title=Most used languages
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=cs2-market-tools,dota2-profile&card_width=495&hide_border=true&border_radius=10&bg_color=F6F8FA&title_color=9A6700&text_color=1F2328&custom_title=Most used languages
           path: dist/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
