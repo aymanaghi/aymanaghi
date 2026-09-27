@@ -208,9 +208,12 @@ TLf9qkWBBxH1NPVQFg2ZzcxZrsbCy7p31T
 ```
 
 <p>
-  <img src="https://img.shields.io/badge/Binance_Pay-ID_STINGER961-F0B90B?style=flat-square&logo=binance&logoColor=black" alt="Binance Pay ID: STINGER961" /><br /><br />
-  <img src="./assets/binance-pay-qr.jpg" width="170" alt="Binance Pay QR code for STINGER961" />
+  <img src="https://img.shields.io/badge/Binance_Pay-ID_STINGER961-F0B90B?style=flat-square&logo=binance&logoColor=black" alt="Binance Pay ID: STINGER961" />
 </p>
+
+<!-- Binance Pay QR: upload the image as assets/binance-pay-qr.jpg, then put this line back inside the <p> above (after a <br />):
+  <img src="./assets/binance-pay-qr.jpg" width="170" alt="Binance Pay QR code for STINGER961" />
+-->
 
 </details>
 
