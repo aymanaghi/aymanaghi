@@ -1,0 +1,62 @@
+# 🐝 Rebuilds the profile cards (honey snake + top languages) and publishes them
+# to the `output` branch, which README.md reads from. Runs on every change to this
+# file, twice a day, and on demand from the Actions tab.
+# Heads-up: GitHub pauses scheduled runs after 60 days without repo activity;
+# any commit or a manual "Run workflow" wakes it up again.
+name: 🐝 Hive cards
+
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/hive.yml"]
+  schedule:
+    - cron: "17 5,17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hive-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 🐍 Honey snake (dark + light)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#F4B400&color_dots=#161B22,#4D3A00,#8A6400,#C99200,#F4B400
+            dist/snake-light.svg?palette=github-light&color_snake=#C98A00&color_dots=#EBEDF0,#FFE8A3,#FFD157,#F4B400,#B47C00
+
+      - name: 🍯 Top languages (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=495&hide_border=true&border_radius=10&bg_color=161B22&title_color=F4B400&text_color=E6EDF3&custom_title=Most used languages
+          path: dist/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: 🍯 Top languages (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=495&hide_border=true&border_radius=10&bg_color=F6F8FA&title_color=9A6700&text_color=1F2328&custom_title=Most used languages
+          path: dist/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: 🚀 Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "🐝 refresh hive cards"
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
